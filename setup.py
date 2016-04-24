@@ -8,7 +8,7 @@ setup(name='PyElectronics',
       description='Classes for aiding electronics calculations in python.',
       author='Dolf Andringa',
       author_email='dolfandringa@gmail.com',
-      url='http://dolfandringa.github.io/PyElectronics',
+      url='http://allican.be/PyElectronics',
       packages=['PyElectronics'],
       package_dir={'': '../'},
       )
